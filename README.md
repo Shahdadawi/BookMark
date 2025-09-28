@@ -32,4 +32,4 @@ The project is a basic **Bookmark Manager** where the user can:
 ## ⚙️ How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/Shahdadawi/BookMark.git
