@@ -25,7 +25,7 @@ The project is a basic **Bookmark Manager** where the user can:
 ---
 
 ## 🚀 Live Demo
-👉 [Live Demo]([https://shahdadawi.github.io/BookMark/])
+👉 [Live Demo](https://shahdadawi.github.io/BookMark/)
 
 ---
 
